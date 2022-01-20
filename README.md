@@ -6,7 +6,7 @@ This project is my portfolio admin panel. The Tech I use:
 
 - JavaScript
 - React Js
-- Redux Toolkit
+- Redux State Management
 - Typescript (Basic)
 - Tailwind CSS
 - Axios
